@@ -9,13 +9,13 @@ title : "github 처음 블로그네요 설레요!!"
 
 ### 내가 생각하는 github 블로그 장점
 > >#### 1. _사용법이 **쉬움**_
-> >
+
 > >#### 2. _**빠르게** 실행 결과를 볼수 있음_
-> >
+
 > >#### 3. _내가 **원하는 대로** 만들 수 있음_
 
 
-![image](https://user-images.githubusercontent.com/103317212/165551316-2411e368-6ac5-4ab7-921f-37be1b157699.png){: width="100" height="100"}
+![image](https://user-images.githubusercontent.com/103317212/165551316-2411e368-6ac5-4ab7-921f-37be1b157699.png)
 
 구글로 들어가고 싶다면 옆에 있는 Google 파란색 글자를 선택하면 됩니다!!
 [Google](https://google.com)
