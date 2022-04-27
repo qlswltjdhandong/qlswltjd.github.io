@@ -14,6 +14,12 @@ title : "github 처음 블로그네요 설레요!!"
 > >
 > >##3. _내가 **원하는 대로** 만들 수 있음_
 
-구글로 들어가고 싶다면 밑에 있는 Google 파란색 글자를 선택하면 됩니다!!
+
+![image](![google-2048x1536](https://user-images.githubusercontent.com/103317212/165551316-2411e368-6ac5-4ab7-921f-37be1b157699.png)
+)
+
+구글로 들어가고 싶다면 옆에 있는 Google 파란색 글자를 선택하면 됩니다!!
 [Google](https://google.com)
-![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.lamanus.kr%2Fwp-content%2Fuploads%2F2018%2F08%2F28225854%2Fgoogle-2048x1536.png&imgrefurl=https%3A%2F%2Flamanus.kr%2F72&tbnid=wT4CmjWEs-dExM&vet=12ahUKEwiF_pP6wbT3AhUuTPUHHT3fD0cQMygBegUIARDVAQ..i&docid=E2AefKQeYl_KXM&w=2048&h=1536&q=google%20%EC%82%AC%EC%A7%84&ved=2ahUKEwiF_pP6wbT3AhUuTPUHHT3fD0cQMygBegUIARDVAQ)
+
+
+
